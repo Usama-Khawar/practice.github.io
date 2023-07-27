@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-img {
+    background-image: url('banner-img.jpg');
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+
+i {
+    color: white;
+}
